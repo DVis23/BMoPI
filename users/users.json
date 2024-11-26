@@ -1,0 +1,89 @@
+[ {
+  "login" : "1234",
+  "uuid" : "1b56614e-2ec5-47a2-a86a-0cc00c7733df",
+  "hashPassword" : "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+  "biometricMatrix" : {
+    "keyHoldingTimes" : [ {
+      "time" : 105
+    }, {
+      "time" : 131
+    }, {
+      "time" : 133
+    }, {
+      "time" : 111
+    } ],
+    "keyIntervals" : [ {
+      "time" : 211
+    }, {
+      "time" : 248
+    }, {
+      "time" : 268
+    } ]
+  }
+}, {
+  "login" : "user",
+  "uuid" : "ccd497fc-777c-4c93-92d0-77bcee64303c",
+  "hashPassword" : "04f8996da763b7a969b1028ee3007569eaf3a635486ddab211d512c85b9df8fb",
+  "biometricMatrix" : {
+    "keyHoldingTimes" : [ {
+      "time" : 65
+    }, {
+      "time" : 81
+    }, {
+      "time" : 62
+    }, {
+      "time" : 78
+    } ],
+    "keyIntervals" : [ {
+      "time" : 138
+    }, {
+      "time" : 181
+    }, {
+      "time" : 165
+    } ]
+  }
+}, {
+  "login" : "1111",
+  "uuid" : "717145b5-9b14-4b28-8d6b-a6896ccbb148",
+  "hashPassword" : "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+  "biometricMatrix" : {
+    "keyHoldingTimes" : [ {
+      "time" : 98
+    }, {
+      "time" : 112
+    }, {
+      "time" : 102
+    }, {
+      "time" : 87
+    } ],
+    "keyIntervals" : [ {
+      "time" : 516
+    }, {
+      "time" : 189
+    }, {
+      "time" : 265
+    } ]
+  }
+}, {
+  "login" : "2222",
+  "uuid" : "83eb9cfa-575e-439b-934a-c29c57c813fb",
+  "hashPassword" : "edee29f882543b956620b26d0ee0e7e950399b1c4222f5de05e06425b4c995e9",
+  "biometricMatrix" : {
+    "keyHoldingTimes" : [ {
+      "time" : 52
+    }, {
+      "time" : 92
+    }, {
+      "time" : 58
+    }, {
+      "time" : 53
+    } ],
+    "keyIntervals" : [ {
+      "time" : 173
+    }, {
+      "time" : 242
+    }, {
+      "time" : 361
+    } ]
+  }
+} ]

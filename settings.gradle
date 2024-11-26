@@ -1,0 +1,8 @@
+rootProject.name = 'BMoPI'
+include 'passwordGeneration'
+include 'readingInput'
+include 'models'
+include 'jsonParser'
+include 'authorization'
+include 'crypto'
+
